@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
-
+// 20180302 - ERC20 NOT WORKING
 // https://github.com/ethereum/EIPs/issues/20
 contract ERC20 {
     function totalSupply() constant returns (uint totalSupply);
